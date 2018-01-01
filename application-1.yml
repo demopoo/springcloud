@@ -1,0 +1,1 @@
+spring:  profiles:    active: dev---server:  port: 7101spring:  profiles: dev  application:    name: springcloud-config-7101---server:  port: 7102spring:  profiles: default  application:    name: springcloud-config-7102
